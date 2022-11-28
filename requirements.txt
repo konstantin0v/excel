@@ -1,0 +1,12 @@
+Webpack
+    Babel
+    Scss
+    Eslint
+    2 Mod
+        -dev serv maps eslint not min js css
+        -prod min code
+Git
+    prod
+        1.0.0
+    dev
+        1.0.2
